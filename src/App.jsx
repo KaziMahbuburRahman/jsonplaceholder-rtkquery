@@ -1,4 +1,4 @@
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import { Route, HashRouter as Router, Routes } from "react-router-dom";
 import "./App.css";
 import Feed from "./pages/Feed";
 import SinglePost from "./pages/SinglePost";
